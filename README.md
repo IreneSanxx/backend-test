@@ -1,4 +1,4 @@
-# SETUP STEPS
+# Setup steps
 
 ## Getting started
 
